@@ -1,0 +1,33 @@
+body{
+  background-color: #F2D5F8;
+}
+h1{
+    text-align: center;
+}
+.button{
+    padding: 20px;
+    border-radius: 9px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  gap: 10px; 
+  margin-top: 50px;
+  background-color: #E6C0E9;
+  
+}
+.row{
+  display: flex;
+  gap: 10px; 
+  
+}
+.row input{
+  margin: 0;
+ padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 20px;
+}
